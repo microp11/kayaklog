@@ -1,2 +1,0 @@
-# kayaklog
-kayak log
