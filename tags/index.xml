@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Paul&#39;s kayak log</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Paul&#39;s kayak log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>current</title>
+      <link>/tags/current/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flat water</title>
+      <link>/tags/flat-water/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/flat-water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>connectivity</title>
+      <link>/tags/connectivity/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/connectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>posture</title>
+      <link>/tags/posture/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/posture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power transfer</title>
+      <link>/tags/power-transfer/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/power-transfer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
