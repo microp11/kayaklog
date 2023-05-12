@@ -1,2 +1,2 @@
-# kayaklog.microp11.github.io
+# kayaklog
 kayak log
